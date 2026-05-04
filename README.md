@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1 - [gale_global_images_V14.0.6.0.TGPMIXM_20231106.0000.00_13.0_global_273ca54229](https://github.com/parhamphd/downloader/tree/main/downloads/gale_global_images_V14.0.6.0.TGPMIXM_20231106.0000.00_13.0_global_273ca54229)
+
+---
