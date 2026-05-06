@@ -77,8 +77,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [gale_global_images_V14.0.6.0.TGPMIXM_20231106.0000.00_13.0_global_273ca54229](https://github.com/parhamphd/downloader/tree/main/downloads/gale_global_images_V14.0.6.0.TGPMIXM_20231106.0000.00_13.0_global_273ca54229)
+1 - [blue_global_images_V816.0.5.0.UGRMIXM_20240328.0000.00_14.0_90379c256c](https://github.com/parhamphd/downloader/tree/main/downloads/blue_global_images_V816.0.5.0.UGRMIXM_20240328.0000.00_14.0_90379c256c)
 
 ---
